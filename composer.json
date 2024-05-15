@@ -2,7 +2,6 @@
     "name": "acanac/translator",
     "description": "Un package PHP pour la traduction de texte",
     "type": "library",
-    "license": "MIT",
     "authors": [
         {
             "name": "Andy CANAC"
