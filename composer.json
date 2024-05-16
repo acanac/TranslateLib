@@ -9,9 +9,9 @@
             "email": "a.canac@yahoo.fr"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
-        "php": "^7.2",
+        "php": ">=7.0",
         "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
