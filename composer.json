@@ -2,21 +2,21 @@
     "name": "acanac/translator",
     "description": "Un package PHP pour la traduction de texte",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
-            "name": "Andy CANAC",
+            "name": "Andy Canac",
             "email": "a.canac@yahoo.fr"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
-        "php": ">=5.4",
-        "guzzlehttp/guzzle": "^6.0 || ^7.0"
+        "php": "^7.2",
+        "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
         "psr-4": {
-            "Translate\\": "src/"
+            "Acanac\\Translator\\": "src/"
         }
-    },
-    "license": "MIT",
-    "minimum-stability": "stable"
+    }
 }
