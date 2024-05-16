@@ -12,8 +12,7 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=7.0",
-        "guzzlehttp/guzzle": "^6.3",
-        "acanac/translator": "^1.0@stable"
+        "guzzlehttp/guzzle": "^6.3"
     },
     "autoload": {
         "psr-4": {
