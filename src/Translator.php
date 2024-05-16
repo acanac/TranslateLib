@@ -1,6 +1,6 @@
 <?php
 
-namespace Translate;
+namespace acanac\Translate;
 
 use GuzzleHttp\Client;
 
