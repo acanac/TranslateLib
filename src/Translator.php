@@ -8,7 +8,7 @@ class Translator {
     private $client;
 
     public function __construct() {
-        $this->client = new Client();
+        $this->client = new Client(['verify' => false, 'headers' => ['Content-Type' => 'application/json']]);
     }
 
     public function translate($text, $sourceLanguage, $targetLanguage) {
