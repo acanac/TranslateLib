@@ -17,8 +17,5 @@
             "Translate\\": "src/"
         }
     },
-    "license": "MIT",
-    "config": {
-        "minimum-stability": "stable"
-    }
+    "license": "MIT"
 }
