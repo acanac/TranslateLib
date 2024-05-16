@@ -9,8 +9,7 @@
     ],
     "require": {
         "php": ">=5.4",
-        "guzzlehttp/guzzle": "^6.0 || ^7.0",
-        "acanac/translator": "^1.0"
+        "guzzlehttp/guzzle": "^6.0 || ^7.0"
     },
     "autoload": {
         "psr-4": {
